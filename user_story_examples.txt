@@ -1,0 +1,7 @@
+As a ______ I want ______ so that ______
+
+
+
+As as user I want an area page that will show messages so that I can see the messages that are sent to whatever room I'm in.
+
+As a user I want to be able to see all of the rooms that I'm participating in.
